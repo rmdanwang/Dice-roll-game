@@ -1,4 +1,4 @@
-# Final Exam by Ru Meng(Dan) Wang, contains Die Class
+
 from random import randint
 
 class Die:
