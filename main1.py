@@ -1,4 +1,4 @@
-# Final Exam by Ru Meng(Dan) Wang, contains main function and calling
+# contains main function and calling
 from die import Die
 
 def main():
